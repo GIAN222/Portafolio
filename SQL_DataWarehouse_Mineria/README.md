@@ -9,7 +9,7 @@ Para este análisis, se implementó el algoritmo de agrupamiento DBSCAN (Density
 Metodología:El proyecto sigue el ciclo de vida **CRISP-DM / KDD**, abarcando desde la extracción SQL hasta el modelado matemático.
 
 ---
-Resultados: Interpretación y Análisis Comercial
+Resultados: Interpretación y Análisis Comercial.
 El algoritmo dividió a los 53 ciudadanos de la muestra en tres clústeres principales, revelando tendencias de mercado muy claras:
 
 1. Perfil Tecnológico y Especializado: Representa el 34% de la muestra. Son ciudadanos locales ubicados en Bogotá con profesiones predominantes como Ingenieros de Software (28%) y Médicos (22%).
